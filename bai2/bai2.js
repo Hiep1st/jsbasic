@@ -1,1 +1,1 @@
-console.log('hello world from javascrip')
+console.loggit('hello world from javascrip')
